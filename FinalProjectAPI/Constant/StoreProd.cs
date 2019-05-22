@@ -9,6 +9,7 @@ namespace FinalProjectAPI.Constant
 	{
 		#region User
 		public const string GetUserByEmail = "spGetUserByEmail";
+		public const string GetUserByUsernameAndPassword = "spGetUserByUsernameAndPassword";
 		#endregion
 	}
 }
